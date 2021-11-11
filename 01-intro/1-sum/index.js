@@ -5,8 +5,5 @@
  * @returns {number}
  */
 export default function sum(m, n) {
-  // Проверка на краевые значения
-
-  //
   return m + n;
 }
